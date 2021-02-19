@@ -1,5 +1,6 @@
 # Voronoi
 /*************************************************************************************************
+
 This code generates a voronoi diagram with NUM randomly generated points in a SZE*SZE image that
 can be downloaded pressing SPACE. The diagram can be made with Euclidean distance or with 
 Manhattan distance (changing comments in lines 65 and 67). To see some interaction, the points are
@@ -14,4 +15,5 @@ Possible improvements:
 
 Author: Abollo Palacios, José Carlos.
 Date: 16/02/21
+
 *************************************************************************************************/
