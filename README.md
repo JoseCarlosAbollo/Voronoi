@@ -14,6 +14,6 @@ Possible improvements:
 		2) from SZE and a given array {e.g. voronoi(sze,points)}
 
 Author: Abollo Palacios, José Carlos.
-Date: 16/02/21
+Date: 04/05/2019
 
 *************************************************************************************************/
